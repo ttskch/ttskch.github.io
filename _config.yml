@@ -4,12 +4,12 @@
 # url: http://localhost:4000
 # baseurl: ""
 url: https://ttskch.github.io
-baseurl: /jekyll-tch-theme
-title: Your name
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
-# language: ja
-language: en
+baseurl: ""
+title: "@ttskch"
+description: Takashi Kanemoto's Blog
+avatar: //avatars.githubusercontent.com/ttskch
+language: ja
+# language: en
 
 #
 # Icons
@@ -20,7 +20,7 @@ icons:
   github: ttskch
   bitbucket:
   twitter: ttskch
-  facebook:
+  facebook: ttskch
   google_plus:
   tumblr:
   behance:
@@ -31,7 +31,7 @@ icons:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange: # full URL
+  stack_exchange:  # full URL
   steam:
   wordpress:
   youtube:
@@ -44,7 +44,7 @@ permalink: pretty
 #
 # Scripts.
 #
-google_analytics: # e.g. UA-000000-01
+google_analytics: UA-28477336-5 # e.g. UA-000000-01
 disqus:
 
 #
@@ -65,21 +65,21 @@ recent_posts_num: 10
 #
 # Pagination.
 #
-paginate: 10
-paginate_path: page/:num
+paginate: 3
+paginate_path: /blog/page/:num
 
 #
 # Social.
 #
 share_buttons:
   twitter: true
-  facebook: false # needs ogp.fb.app_id
-  hatena: false
+  facebook: true   # needs ogp.fb.app_id
+  hatena: true
 ogp:
-  image_url: //ttskch.github.io/jekyll-tch-theme/assets/img/ogp.png
+  image_url: //avatars.githubusercontent.com/ttskch
   fb:
-    admin: # facebook admin id
-    app_id: # facebook application id
+    admin: 844117658995968 # facebook admin id
+    app_id: 1775766859321672 # facebook application id
 
 #
 # Gems.
