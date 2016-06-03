@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Profile
+permalink: /
 order: 1
 share: false
 ---
