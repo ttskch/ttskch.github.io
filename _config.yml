@@ -8,6 +8,8 @@ baseurl: ""
 title: "@ttskch"
 description: Takashi Kanemoto's Blog
 avatar: //avatars.githubusercontent.com/ttskch
+# favicon: /favicon.ico
+favicon: //avatars.githubusercontent.com/ttskch
 language: ja
 # language: en
 
