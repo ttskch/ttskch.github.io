@@ -31,7 +31,7 @@ icons:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # full URL
+  stack_exchange: # full URL
   steam:
   wordpress:
   youtube:
@@ -73,7 +73,7 @@ paginate_path: /blog/page/:num
 #
 share_buttons:
   twitter: true
-  facebook: true   # needs ogp.fb.app_id
+  facebook: true # needs ogp.fb.app_id
   hatena: true
 ogp:
   image_url: //avatars.githubusercontent.com/ttskch
