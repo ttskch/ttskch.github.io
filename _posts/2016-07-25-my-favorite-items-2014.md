@@ -4,7 +4,7 @@ title: これは買って良かった！2014
 tags: 買って良かった
 ---
 
-Amazonの購入履歴から、2014年に買ったもので満足度の高かったものをただただ挙げていきます。
+（主に）Amazonの購入履歴から、2014年に買ったもので満足度の高かったものをただただ挙げていきます。
 
 <div class="bgcolor" style="padding: 1em; margin-bottom: 1em;">
 <div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003H4PSTE/ttskch-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41TeTwwaxPL._SL160_.jpg" alt="ヤマト工芸 W CUBE ダストボックス DUSTBOX M 茶色 YK09-020Br 4L" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003H4PSTE/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">ヤマト工芸 W CUBE ダストボックス DUSTBOX M 茶色 YK09-020Br 4L</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 16.07.25</div></div><div class="amazlet-detail">ヤマト工芸 <br />売り上げランキング: 19,339<br /></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003H4PSTE/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
@@ -19,6 +19,16 @@ Amazonの購入履歴から、2014年に買ったもので満足度の高かっ�
 </div>
 
 これはマジでやばい。風呂上がりのびしょびしょの体で乗っても一瞬で水分吸い取って足の裏乾く。とてつもない実用性。吸った水分はこれまた割とすぐに蒸発して元の乾いた状態に戻るので清潔だしなんかもうすごすぎて怖い。超おすすめ。
+
+---
+
+<div class="bgcolor" style="padding: 1em; margin-bottom: 1em;">
+<div style="margin-bottom:0px;"><div style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.kagu-tsuhan.jp/ez/ez-06/" target="_blank"><img src="http://www.kagu-tsuhan.jp/ez/img/ez-06_1..jpg" style="border: none;"></a></div><div style="line-height:120%; margin-bottom: 10px"><div style="margin-bottom:10px;line-height:120%"><a href="http://www.kagu-tsuhan.jp/ez/ez-06/" target="_blank">ワイド・ロースタイルで低価格な国産テレビ台　AV180ウォールナット｜TVボード販売館</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+</div>
+
+自分の中ではテレビボードの完成系。脚付きで床を掃除できるものが欲しくて探しまくって見つけた。しかもお値打ち価格。このサイトのテレビボードはどれもデザインがいいのでおすすめ。
+
+ちなみに自分は裏側に [雨どい](http://store.shopping.yahoo.co.jp/iefan/st1-3588-0235.html) を装着してケーブルオーガナイザーにしてて、床には全くケーブルが落ちないようにしてある。このハックも超おすすめ。
 
 ---
 
