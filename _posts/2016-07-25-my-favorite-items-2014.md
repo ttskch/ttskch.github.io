@@ -26,7 +26,7 @@ tags: 買って良かった
 <div style="margin-bottom:0px;"><div style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.kagu-tsuhan.jp/ez/ez-06/" target="_blank"><img src="http://www.kagu-tsuhan.jp/ez/img/ez-06_1..jpg" style="border: none;"></a></div><div style="line-height:120%; margin-bottom: 10px"><div style="margin-bottom:10px;line-height:120%"><a href="http://www.kagu-tsuhan.jp/ez/ez-06/" target="_blank">ワイド・ロースタイルで低価格な国産テレビ台　AV180ウォールナット｜TVボード販売館</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
 </div>
 
-自分の中ではテレビボードの完成系。脚付きで床を掃除できるものが欲しくて探しまくって見つけた。しかもお値打ち価格。このサイトのテレビボードはどれもデザインがいいのでおすすめ。
+自分の中ではテレビボードの完成形。脚付きで床を掃除できるものが欲しくて探しまくって見つけた。しかもお値打ち価格。このサイトのテレビボードはどれもデザインがいいのでおすすめ。
 
 ちなみに自分は裏側に [雨どい](http://store.shopping.yahoo.co.jp/iefan/st1-3588-0235.html) を装着してケーブルオーガナイザーにしてて、床には全くケーブルが落ちないようにしてある。このハックも超おすすめ。
 
