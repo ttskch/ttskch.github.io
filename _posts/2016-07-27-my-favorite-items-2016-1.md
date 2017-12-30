@@ -1,7 +1,7 @@
 ---
 layout: post
-title: これは買って良かった！2016前半
-tags: 買って良かった
+title: これは買ってよかった！2016前半
+tags: 買ってよかった
 ---
 
 （主に）Amazonの購入履歴から、2016年前半に買ったもので満足度の高かったものをただただ挙げていきます。
@@ -54,7 +54,7 @@ tags: 買って良かった
 <div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VTJS58U/ttskch-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31hJZcvYcCL._SL160_.jpg" alt="Anker PowerPort 4  (40W4ポート USB急速充電器) マルチポート 折りたたみ式プラグ搭載 iPhone/ iPad/ Andoird/ Xperia/ Galaxy/ Nexus/ 3DS/ PS Vita他対応【PowerIQ & VoltageBoost搭載】(ホワイト) A2142521" style="border: none;"></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VTJS58U/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">Anker PowerPort 4  (40W4ポート USB急速充電器) マルチポート 折りたたみ式プラグ搭載 iPhone/ iPad/ Andoird/ Xperia/ Galaxy/ Nexus/ 3DS/ PS Vita他対応【PowerIQ & VoltageBoost搭載】(ホワイト) A2142521</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 16.07.27</div></div><div class="amazlet-detail">Anker <br>売り上げランキング: 59<br></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VTJS58U/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
 </div>
 
-<div class="bgcolor" style="padding: 1em; margin-bottom: 1em;">
+<div class="bgcolor" style="padding: 1em; margin-bottom: 1em;" id="item-08">
 <div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013D796MO/ttskch-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31gsO9rIW4L._SL160_.jpg" alt="オウルテック 1年保証 巻取り式 Lightning変換アダプタ付きmicroUSBケーブル Apple認証 ホワイト 1.2m" style="border: none;"></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013D796MO/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">オウルテック 1年保証 巻取り式 Lightning変換アダプタ付きmicroUSBケーブル Apple認証 ホワイト 1.2m</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 16.07.27</div></div><div class="amazlet-detail">オウルテック (2015-08-07)<br>売り上げランキング: 1,172<br></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013D796MO/ttskch-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
 </div>
 
