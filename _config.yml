@@ -117,3 +117,4 @@ exclude:
   - LICENSE
   - README.md
   - vendor
+  - _posts/drafts
