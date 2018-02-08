@@ -35,4 +35,8 @@ Works at [Quartet Communications](https://quartet-communications.com/) in Nagoya
 
 ## Software projects
 
-See <https://github.com/ttskch?tab=repositories> :smiley:
+See <https://github.com/ttskch?tab=repositories>
+
+## Contact me
+
+Feel free to [message me on Twitter](https://twitter.com/messages/compose?recipient_id=ttskch) :ok_hand:
