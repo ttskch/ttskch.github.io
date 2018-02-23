@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: 404 Not Found
-permalink: 404.html
-hide: true
-share: false
+permalink: /404.html
 ---
 
-Sorry, the requested page wasn't found on the server.
+<div class="d-flex flex-column justify-content-center align-items-center" style="height:80vh">
+    <b class="my-3" style="font-size:1.5rem">{{ page.title }}</b>
+    <p class="my-3">すみません、ページが見つかりません</p>
+    <img src="{{ site.baseurl }}/assets/images/404.png" style="width:20rem">
+</div>

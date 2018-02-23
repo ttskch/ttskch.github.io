@@ -1,120 +1,113 @@
 #
-# Basic settings.
+# Url
 #
-# url: http://localhost:4000
-# baseurl: ""
+
+# don't end with "/"
 url: http://ttskch.github.io
 baseurl: ""
-title: "@ttskch"
-description: Takashi Kanemoto's Blog
+# url: http://localhost:4000
+# baseurl: ""
+permalink: pretty
+
+#
+# Basics
+#
+
+title: "Takashi Kanemoto aka ttskch"
+description: Takashi Kanemoto's portfolio
 avatar: //avatars.githubusercontent.com/ttskch
 # favicon: /favicon.ico
 favicon: //avatars.githubusercontent.com/ttskch
 language: ja
 # language: en
-
-#
-# Icons
-#
-icons:
-  rss: true
-  email:
-  github: ttskch
-  bitbucket:
-  twitter: ttskch
-  facebook: ttskch
-  google_plus:
-  tumblr:
-  behance:
-  dribbble:
-  flickr:
-  instagram:
-  linkedin: # full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange: # full URL
-  steam:
-  wordpress:
-  youtube:
-
-#
-# Prettify url.
-#
-permalink: pretty
-
-#
-# Scripts.
-#
 google_analytics: UA-28477336-5 # e.g. UA-000000-01
-disqus:
 
 #
-# Localizations.
-#
-str_next: Next
-str_prev: Prev
-str_read_more: Read more...
-str_search: Search
-str_recent_posts: Recent posts
-str_show_all_posts: Show all posts
-
-#
-# Recent posts.
-#
-recent_posts_num: 10
-
-#
-# Pagination.
-#
-paginate: 3
-paginate_path: /blog/page/:num
-
-#
-# Social.
-#
-share_buttons:
-  twitter: true
-  facebook: true # needs ogp.fb.app_id
-  hatena: true
-ogp:
-  image_url: //avatars.githubusercontent.com/ttskch
-  fb:
-    admin: 844117658995968 # facebook admin id
-    app_id: 1775766859321672 # facebook application id
-
-#
-# Gems.
-#
-gems:
-  - jekyll-paginate
-  - jemoji
-
-#
-# Styles: see "_sass/base/_variables.scss"
+# Links
 #
 
+links:
+  - url: https://twitter.com/ttskch
+    icon: fa-twitter
+    label: Twitter
+  - url: https://www.facebook.com/ttskch
+    icon: fa-facebook
+    label: Facebook
+  - url: https://github.com/ttskch
+    icon: fa-github
+    label: GitHub
+  - url: https://note.mu/ttskch
+    icon: fa-sticky-note-o fa-rotate-180
+    label: Blog
+  - url: http://tech.quartetcom.co.jp
+    icon: fa-code
+    label: Tech Blog
+  - url: https://qiita.com/ttskch
+    icon: fa-smile-o
+    label: Qiita
+  - url: https://speakerdeck.com/ttskch
+    icon: fa-picture-o
+    label: Speaker Deck
+  - url: https://www.linkedin.com/in/ttskch
+    icon: fa-linkedin
+    label: LinkedIn
+  - url: https://www.instagram.com/ttskch
+    icon: fa-instagram
+    label: Instagram
+  - url: https://booklog.jp/users/ttskch
+    icon: fa-book
+    label: Booklog
+  - url: https://www.amazon.co.jp/registry/wishlist/O4B5ZRU2EXQV
+    icon: fa-amazon
+    label: Wishlist
+  - url: mailto:ttskch@gmail.com
+    icon: fa-envelope-o
+    label: Email
+
 #
-# !! Danger zone !!
+# SEO
+# @see https://github.com/jekyll/jekyll-seo-tag
 #
 
-include: ["_pages"]
+logo: https://avatars.githubusercontent.com/ttskch
+lang: ja_JP
+twitter:
+  username: ttskch
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://avatars.githubusercontent.com/ttskch
+
+#
+# Other
+#
 
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
 
-excerpt_separator: <!--more-->
+# @see https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+timezone: Asia/Tokyo
+encoding: utf-8
 
 sass:
   sass_dir: _sass
   style: :compressed # or :expanded
 
+include:
+  - "_pages"
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
   - LICENSE
   - README.md
-  - vendor
   - _posts/drafts

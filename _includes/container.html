@@ -1,0 +1,18 @@
+<div id="container" class="clearfix">
+
+    <aside id="sidebar">
+        {% include sidebar.html %}
+    </aside>
+
+    <div id="content" class="bg-white">
+        {% include header.html %}
+
+        <article class="container-fluid">
+            {% include self-introduction.html %}
+
+            {{ content }}
+        </article>
+
+        {% include footer.html %}
+    </div>
+</div>
