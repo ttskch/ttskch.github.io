@@ -1,0 +1,16 @@
+<div class="d-flex flex-column justify-content-center align-items-center" style="height:100%">
+
+    <a href="{{ site.baseurl }}/">
+        <img src="{{ site.avatar }}" alt="金本貴志" class="rounded-circle" width="100">
+    </a>
+
+    {% include self-introduction.html %}
+
+    <div class="row mt-5" style="line-height:2">
+        {% for link in site.links %}
+            <div class="col-lg-6">
+                <a href="{{ link.url }}" class="text-dark"><i class="fa fa-fw {{ link.icon }}"></i> {{ link.label }}</a>
+            </div>
+        {% endfor %}
+    </div>
+</div>
