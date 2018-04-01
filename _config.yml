@@ -36,8 +36,8 @@ links:
   - url: https://github.com/ttskch
     icon: fa-github
     label: GitHub
-  - url: https://note.mu/ttskch
-    icon: fa-sticky-note-o fa-rotate-180
+  - url: https://ttskch.hatenablog.com/
+    icon: fa-file-text-o
     label: Blog
   - url: http://tech.quartetcom.co.jp
     icon: fa-code
