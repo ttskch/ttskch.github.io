@@ -19,13 +19,12 @@ permalink: /
 * [「買ってよかった」でつながるSNS \| pocitta（ポチッタ）](http://pocitta.jp)
 * [音声ファイルを5秒で動画ファイルに変換 \| audio2video.me](http://audio2video.me)
 
-### OSS
+### OSS（主なもの）
 
-* [WordPress.Skeleton \| Composer based WordPress project skeleton](http://ttskch.github.io/WordPress.Skeleton/)
-* [ttskch/ghsync: Sync local git repository and remote GitHub repository automatically.](https://github.com/ttskch/ghsync)
-* [ttskch/esaba: Host your markdown docs on esa.io with your own css.](https://github.com/ttskch/esaba)
-* etc
+* [![](https://img.shields.io/github/stars/ttskch/WordPress.Skeleton.svg?style=social&label=Star)](https://github.com/ttskch/WordPress.Skeleton) [WordPress.Skeleton \| Composer based WordPress project skeleton](http://ttskch.github.io/WordPress.Skeleton/)
+* [![](https://img.shields.io/github/stars/ttskch/ghsync.svg?style=social&label=Star)](https://github.com/ttskch/ghsync) [ttskch/ghsync: Sync local git repository and remote GitHub repository automatically.](https://github.com/ttskch/ghsync)
+* [![](https://img.shields.io/github/stars/ttskch/esaba.svg?style=social&label=Star)](https://github.com/ttskch/esaba) [ttskch/esaba: Host your markdown docs on esa.io with your own css.](https://github.com/ttskch/esaba)
 
-## その他のOSS活動
+### OSS（その他）
 
 * <https://github.com/ttskch?tab=repositories>
