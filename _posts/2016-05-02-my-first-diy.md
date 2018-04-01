@@ -1,5 +1,5 @@
 ---
-redirect_to: https://note.mu/ttskch/n/nf84a43b9f234
+redirect_to: https://ttskch.hatenablog.com/entry/2016/05/02/000000
 ---
 
 素人が初めてDIYしたので記録に残しときます

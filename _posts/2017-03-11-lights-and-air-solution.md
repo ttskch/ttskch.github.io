@@ -1,5 +1,5 @@
 ---
-redirect_to: https://note.mu/ttskch/n/n8eb76f8554eb
+redirect_to: https://ttskch.hatenablog.com/entry/2017/03/11/000000
 ---
 
 我が家の照明とエアコン周りのソリューション

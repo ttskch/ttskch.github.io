@@ -1,5 +1,5 @@
 ---
-redirect_to: https://note.mu/ttskch/n/nf628f2ab668f
+redirect_to: https://ttskch.hatenablog.com/entry/2016/01/10/000000
 ---
 
 リーダーとマネージャー（Rebuild.fm ep123の感想）
