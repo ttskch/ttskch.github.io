@@ -48,6 +48,9 @@ links:
   - url: https://speakerdeck.com/ttskch
     icon: fa-picture-o
     label: Speaker Deck
+  - url: https://schoo.jp/teacher/2288
+    icon: fa-graduation-cap
+    label: Schoo
   - url: https://www.linkedin.com/in/ttskch
     icon: fa-linkedin
     label: LinkedIn
