@@ -21,7 +21,8 @@ permalink: /
 
 ### OSS（主なもの）
 
-* [![](https://img.shields.io/github/stars/ttskch/WordPress.Skeleton.svg?style=social&label=Star)](https://github.com/ttskch/WordPress.Skeleton) [WordPress.Skeleton \| Composer based WordPress project skeleton](http://ttskch.github.io/WordPress.Skeleton/)
+* [![](https://img.shields.io/github/stars/ttskch/select2-bootstrap4-theme.svg?style=social&label=Star)](https://github.com/ttskch/select2-bootstrap4-theme) [select2-bootstrap4-theme \| Select2 v4 theme for Bootstrap4](https://github.com/ttskch/select2-bootstrap4-theme)
+* [![](https://img.shields.io/github/stars/ttskch/WordPress.Skeleton.svg?style=social&label=Star)](https://github.com/ttskch/WordPress.Skeleton) [WordPress.Skeleton \| Composer based WordPress project skeleton](https://ttskch.github.io/WordPress.Skeleton/)
 * [![](https://img.shields.io/github/stars/ttskch/ghsync.svg?style=social&label=Star)](https://github.com/ttskch/ghsync) [ttskch/ghsync: Sync local git repository and remote GitHub repository automatically.](https://github.com/ttskch/ghsync)
 * [![](https://img.shields.io/github/stars/ttskch/esaba.svg?style=social&label=Star)](https://github.com/ttskch/esaba) [ttskch/esaba: Host your markdown docs on esa.io with your own css.](https://github.com/ttskch/esaba)
 
