@@ -1,0 +1,35 @@
+:root {
+  --body-padding-top: 49.71px;
+  --content-padding-top: 1rem;
+  --content-padding-bottom: 5rem;
+}
+
+html {
+  font-size: 14px;
+  scroll-padding-top: calc(var(--body-padding-top) + var(--content-padding-top));
+}
+
+body {
+  font-family: "Lato", Emoji, Arial, "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+  color: #444;
+  padding-top: var(--body-padding-top);
+}
+
+* {
+  letter-spacing: 0.03em;
+}
+
+/* @see https://zenn.dev/catnose99/articles/a873bbbe25b15b */
+#container {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-template-columns: 100%;
+  min-height: calc(100vh - var(--body-padding-top));
+}
+#container main {
+  padding-top: var(--content-padding-top);
+  padding-bottom: var(--content-padding-bottom);
+  overflow: auto;
+}
+#container footer {
+}
