@@ -19,6 +19,15 @@ body {
   letter-spacing: 0.03em;
 }
 
+a {
+  color: #ff876f;
+  text-decoration: none;
+}
+a:not(.navbar-brand, .btn):hover {
+  text-decoration: underline;
+}
+
+
 /* @see https://zenn.dev/catnose99/articles/a873bbbe25b15b */
 #container {
   display: grid;
