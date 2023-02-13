@@ -27,6 +27,9 @@ a:not(.navbar-brand, .btn):hover {
   text-decoration: underline;
 }
 
+.card-body *:last-child {
+  margin-bottom: 0;
+}
 
 /* @see https://zenn.dev/catnose99/articles/a873bbbe25b15b */
 #container {
